@@ -1,0 +1,12 @@
+{
+  "id": "stashcat",
+  "name": "Stashcat",
+  "version": "1.0.0",
+  "description": "Stashcat",
+  "main": "index.js",
+  "author": "Marcel Pietsch <marcel.pietsch@hsu-hh.de>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.stashcat.com/web/app/"
+  }
+}
